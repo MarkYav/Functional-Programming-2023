@@ -1,0 +1,48 @@
+/home/mark/.stack/programs/x86_64-linux/ghc-tinfo6-libc6-pre232-9.2.8/lib/ghc-9.2.8/include/ghcversion.h:
+  hash: 10980ec0f1a6f6f31856fe1e1a51a5359d97b178636eae9fb2348f20c650207a
+? /home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/monad-par-0.3.5/.stack-work/dist/x86_64-linux-tinfo6-libc6-pre232/Cabal-3.6.3.0/build/autogen/cabal_macros.h
+: hash: d76cbb3c2cd73a8adcaca9d177302290927fa74fef6db6bd3b5ffdfe5fda0339
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/monad-par-0.3.5/Control/Monad/Par.hs:
+  hash: 0f0748bd848ea93ce9ecb32089c75d47f50f1e3fe13af4d6dc34be273f1e1bbd
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/monad-par-0.3.5/Control/Monad/Par/IO.hs:
+  hash: 8ea07aec6909284f0bb4a80f213ec8b0b8e23f748ca5a770db1d0ef925ace252
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/monad-par-0.3.5/Control/Monad/Par/Scheds/Direct.hs:
+  hash: 35548433750690298d218b45346b35f7905f3020842ffcbdc620675b67ca22a8
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/monad-par-0.3.5/Control/Monad/Par/Scheds/DirectInternal.hs:
+  hash: 993ca0845aaec9a31016363a106b6d2c35c553dc7daee2ad7becc4c9ad92f0b8
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/monad-par-0.3.5/Control/Monad/Par/Scheds/Sparks.hs:
+  hash: cc577b65241ce67b9afd459acb172aa36999c031b9f02830206ba1970c8618f6
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/monad-par-0.3.5/Control/Monad/Par/Scheds/Trace.hs:
+  hash: 0be371637ad5cb58677e9c9440b50df9d59381bf20e6a527fe59640446f710a6
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/monad-par-0.3.5/Control/Monad/Par/Scheds/TraceInternal.hs:
+  hash: 65ee601db22bc96ab82b0f5b9c3261aadd4c2b636b826a9574f860ccf436bc63
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/monad-par-0.3.5/monad-par.cabal:
+  hash: f9b9936dbcb3324ab456bcf246d0526b2b7ae8474a9575100d1693d978e2d0ac
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/monad-par-0.3.5/tests/AListTest.hs:
+  hash: cfce77ba56eed610b4caeaff9e44859ac56b430b41bc38d156bd0f34eed0ba79
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/monad-par-0.3.5/tests/AllTests.hs:
+  hash: 158eed3d55a74788d14a24482d804b67e908cd2bdfce4e9e1cf32d748a968c7b
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/monad-par-0.3.5/tests/AsyncTest.hs:
+  hash: 948c79f2bb074b7a6939d36d4e6435991d1338c308d4d084b38256d1b3c14a2d
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/monad-par-0.3.5/tests/Makefile:
+  hash: f2544513f217b424122247060da774c50c4c3fc4ec54eb5b7a308c814e4c477b
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/monad-par-0.3.5/tests/ParTests1.hs:
+  hash: db9d98c788412833b24afcf88b7b33f5c86cf2cb85f00d589a21c68a2b3e27f8
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/monad-par-0.3.5/tests/ParTests2.hs:
+  hash: 639669a98f8632cc26b95cda3bd3707323d241a976962a471acae0eea8ce7e27
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/monad-par-0.3.5/tests/ParTests_shared.hs:
+  hash: 6cbc151db3c6ec4a3428be537e01747856f43e4974989aa460d932b416968343
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/monad-par-0.3.5/tests/TestHelpers.hs:
+  hash: 0003bb93f94fe2e73156e6a094277e0aebf00190523579a7aeba616596361744
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/monad-par-0.3.5/tests/TestParDist.hs:
+  hash: bda0fe9f944d765f65f35749d6726dd7afb219fb3946dd738cfba63d0dc57729
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/monad-par-0.3.5/tests/Test_ContReaderT.hs:
+  hash: 145426bf55002b54bd801b342cd5ad1c29b603743f137a86d34f5025d8360bd5
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/monad-par-0.3.5/tests/Test_ReaderContT.hs:
+  hash: 0c97617f1f194111cbc4058ebadc6b7a153625a249c5f11ec0ef01a3dcf3f614
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/monad-par-0.3.5/tests/hs_cassandra_microbench.hs:
+  hash: 2ea2eee528dda8b2c4ecad5f42c6b705969b66c0b41f11a9255b02157abb11e5
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/monad-par-0.3.5/tests/hs_cassandra_microbench2.hs:
+  hash: a4d4458e3e573738e4a60e95a3fb925b9d3139da11b9ac10903b570d0f972b13
+/usr/include/stdc-predef.h:
+  hash: 64fdf694f7b3d51ec6c45c06dcb71ebbe9455742d3ea673012016668853d3bff

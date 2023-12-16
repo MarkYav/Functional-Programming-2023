@@ -1,0 +1,59 @@
+cabal-version:      2.4
+name:               Lab1
+version:            0.1.0.0
+
+-- A short (one-line) description of the package.
+-- synopsis:
+
+-- A longer description of the package.
+-- description:
+
+-- A URL where users can report bugs.
+-- bug-reports:
+
+-- The license under which the package is released.
+-- license:
+author:             MarkYav
+maintainer:         yavorskiymark@gmail.com
+
+-- A copyright notice.
+-- copyright:
+-- category:
+extra-source-files: CHANGELOG.md
+executable Lab1
+    main-is:          Main.hs
+
+    -- Modules included in this executable, other than Main.
+    other-modules:      SQLiteModule
+                        , UserModule
+                        , AuthorModule
+                        , ArticleModule
+                        , CommentModule
+                        , SectionModule
+                        , StatisticModule
+                        , SQLUserModule
+                        , SQLAuthorModule
+                        , SQLSectionModule
+                        , SQLStatisticModule
+                        , SQLArticleModule
+                        , SQLCommentModule
+                        , ResourceModule
+                        , UserMenuModule
+                        , AuthorMenuModule
+                        , SectionMenuModule
+                        , StatisticMenuModule
+                        , ArticleMenuModule
+                        , CommentMenuModule
+                        , MenuModule
+
+    -- LANGUAGE extensions used by modules in this package.
+    -- other-extensions:
+    build-depends:      base
+                        , sqlite-simple
+                        , time
+    default-extensions: OverloadedStrings
+    hs-source-dirs:   app
+                      , app/dataclasses
+                      , app/sql
+                      , app/menu
+    default-language: Haskell2010

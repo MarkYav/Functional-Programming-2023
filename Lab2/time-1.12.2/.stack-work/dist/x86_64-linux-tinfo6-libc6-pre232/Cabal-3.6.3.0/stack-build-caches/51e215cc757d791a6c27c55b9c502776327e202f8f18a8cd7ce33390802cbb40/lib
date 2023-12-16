@@ -1,0 +1,120 @@
+/home/mark/.stack/programs/x86_64-linux/ghc-tinfo6-libc6-pre232-9.2.8/lib/ghc-9.2.8/include/ghcversion.h:
+  hash: 10980ec0f1a6f6f31856fe1e1a51a5359d97b178636eae9fb2348f20c650207a
+? /home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/time-1.12.2/.stack-work/dist/x86_64-linux-tinfo6-libc6-pre232/Cabal-3.6.3.0/build/autogen/cabal_macros.h
+: hash: 22f47485fdd92a2efdfefc101e0c28a508a231fea24ce13368d1d76f2de11da4
+? /home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/time-1.12.2/.stack-work/dist/x86_64-linux-tinfo6-libc6-pre232/Cabal-3.6.3.0/build/lib/include/HsTimeConfig.h
+: hash: d27ca12c889780bf01199623919b2a3a9b33cecdc5ae5bc47869b2ed6fef5303
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/time-1.12.2/aclocal.m4:
+  hash: 3e074d61914e2b2359ca316ca4d4f1f0d0adfb84ec940cdc23b956c1accb6bab
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/time-1.12.2/changelog.md:
+  hash: 6781631f4c72b21c10d4054b788736a44a273310a9366992a11b104eb4bed6e0
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/time-1.12.2/configure:
+  hash: b7b870397a218929d26d8a52ed6996ed83226b63b1e4d1a6654df13490066d95
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/time-1.12.2/configure.ac:
+  hash: c28ce10334fb882949fcc93d3b9974866a5b004c520c074435fbe03907420a39
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/time-1.12.2/lib/Data/Format.hs:
+  hash: 2e5ad9df5670838e808bc41738167fbc164b47563c2b142691668bb311995770
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/time-1.12.2/lib/Data/Time.hs:
+  hash: b78ec5beec6f55e99dba9321f17e9512c9a2f3cdad2fa3484910091d66008e77
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/time-1.12.2/lib/Data/Time/Calendar.hs:
+  hash: a2dc32283ba0de26e2d20b0449ed5511c0e598d8584e3a3da05d82e2fde8baf0
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/time-1.12.2/lib/Data/Time/Calendar/CalendarDiffDays.hs:
+  hash: 1e9f669a7d7cfad4115c2302debe53bbca2d6efdca37ab12d1f7bf1c1885c290
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/time-1.12.2/lib/Data/Time/Calendar/Days.hs:
+  hash: c41c79e55bb55a4d74afd0486d9f0446d35890496b52dc321d6904a613adedd8
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/time-1.12.2/lib/Data/Time/Calendar/Easter.hs:
+  hash: 0fdeb2ce19c6a3ebcf2b4bf42042f2c9331a9ff3a3d6447e1c3a4afc3fa6d53b
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/time-1.12.2/lib/Data/Time/Calendar/Gregorian.hs:
+  hash: deab510a471fdd228ba00aaba788f015bba96fd835528b238c8a2fcff22813bb
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/time-1.12.2/lib/Data/Time/Calendar/Julian.hs:
+  hash: 841209a8593c36e8006df3c94d0a58c1abb6c599a1324a01a8d8f3a791b8913b
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/time-1.12.2/lib/Data/Time/Calendar/JulianYearDay.hs:
+  hash: 485b0cd80d2dfd8e214e062f41859cc01e05b125055c8aab04864d45e9ded302
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/time-1.12.2/lib/Data/Time/Calendar/Month.hs:
+  hash: df6e41be5f5804c952b31307b26e0b362444633dfa395b2c04b2183966cab9f4
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/time-1.12.2/lib/Data/Time/Calendar/MonthDay.hs:
+  hash: dee2826dff1ab34bdc0563a91877ce95226271557b5c99c24ecae1bfc7f4bb4f
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/time-1.12.2/lib/Data/Time/Calendar/OrdinalDate.hs:
+  hash: 0893cfd72566cbb21dd56462b12b590660196b1aed5b0e8d1b805d95c40c3209
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/time-1.12.2/lib/Data/Time/Calendar/Private.hs:
+  hash: 270a9efdab120568ce051fdb9d0859f3f4785fc5aefa0ccd243b33700cb1d75e
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/time-1.12.2/lib/Data/Time/Calendar/Quarter.hs:
+  hash: f545de46a85a92cf4978c49d67b78b882d640576a8b6759d75f4088ca9fc6e08
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/time-1.12.2/lib/Data/Time/Calendar/Types.hs:
+  hash: b0428e0a2e1e615974867d0b63d7d6ffe6260307f92bf1308e02e0ad4db1a40f
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/time-1.12.2/lib/Data/Time/Calendar/Week.hs:
+  hash: 2b7099b74175edb993e847f1914a05e10ee91319d1267faa8315223792d26674
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/time-1.12.2/lib/Data/Time/Calendar/WeekDate.hs:
+  hash: e3d6e622e8cf6feaf0a46de60e469af3d827dc5a27d938f78de8d29c20e2f236
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/time-1.12.2/lib/Data/Time/Clock.hs:
+  hash: 51371e5d16ce6ef587afd499cab490a3c3de805c6f0087b6169e5a8a786d93bc
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/time-1.12.2/lib/Data/Time/Clock/Internal/AbsoluteTime.hs:
+  hash: 62e37f4f831d1b0ef58640d8fb42bb84306d33108d87d093e6c4c5f85455775d
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/time-1.12.2/lib/Data/Time/Clock/Internal/CTimespec.hsc:
+  hash: ec255ceac1eb02eac10c59d04bae6af31d76e59c3d10e37bb920f6e4ef023ef3
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/time-1.12.2/lib/Data/Time/Clock/Internal/CTimeval.hs:
+  hash: 29adacd6c5f017a908e87465aa95ce1b7424639054cd927ebb021430c1871ac9
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/time-1.12.2/lib/Data/Time/Clock/Internal/DiffTime.hs:
+  hash: e5e3bffc990578ec3d8e4e1b9c6f8993f27f40c3bb5bb76b6c3f71b3f4be81f8
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/time-1.12.2/lib/Data/Time/Clock/Internal/NominalDiffTime.hs:
+  hash: 3d48f18beb8870e12f4b60cde61e7691e267ca6c9ee72bfb49e8b942c68ff344
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/time-1.12.2/lib/Data/Time/Clock/Internal/POSIXTime.hs:
+  hash: 8ef6afa040bc6a87b3fff55b031f13c9e7f36b56ddce60b27801fa21ca94fa45
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/time-1.12.2/lib/Data/Time/Clock/Internal/SystemTime.hs:
+  hash: f0c5bc2022fcba122d4372bdd31667bef2ba2b624c67fbd0521f02202becd82a
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/time-1.12.2/lib/Data/Time/Clock/Internal/UTCDiff.hs:
+  hash: 3107506550109b83f170b6e2d620bd6e34d1489a20e183a6df2523867f4a183a
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/time-1.12.2/lib/Data/Time/Clock/Internal/UTCTime.hs:
+  hash: af8bdc3fde6dc74fb4db506b9362b9414814d8cd46432777745f660f8bab477a
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/time-1.12.2/lib/Data/Time/Clock/Internal/UniversalTime.hs:
+  hash: a56280d472660e769cf5503ff30d716d90abe8ea8d1f1578dd581905fd06cf7c
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/time-1.12.2/lib/Data/Time/Clock/POSIX.hs:
+  hash: 2efa0e5a9cc3d7563165fd85f6f217421704b86de82ce7eb1322cb2d90a5db5f
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/time-1.12.2/lib/Data/Time/Clock/System.hs:
+  hash: ea44e8cd0849c3ae1b5e1d00bdf2ff69e8c65796a4c2fb222c17fd26fbef28bd
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/time-1.12.2/lib/Data/Time/Clock/TAI.hs:
+  hash: 17b4b6a00b521b2ec89d02b89d45bf003da925e20ebd345f7367b177a2666f99
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/time-1.12.2/lib/Data/Time/Format.hs:
+  hash: 8f17d7261f99e29b54f1974c459394415911815d72f01e9794945a07a304ee8d
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/time-1.12.2/lib/Data/Time/Format/Format/Class.hs:
+  hash: a23b5d477f80c4f9b783ab60bd3167963bad5dff492bcd55270ec50007b80d66
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/time-1.12.2/lib/Data/Time/Format/Format/Instances.hs:
+  hash: fd8a1da8d23d167a4766085b36244f7f94b6932b3795fbce8199973d376b2190
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/time-1.12.2/lib/Data/Time/Format/ISO8601.hs:
+  hash: a1799fa7cf69fb74eef89a2db7a5069902d7d7632980f7a826afe213d019ff17
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/time-1.12.2/lib/Data/Time/Format/Internal.hs:
+  hash: dff53d422c05f32f32d80a8ebea345c3ce21f3752513339e28b642c702d55a34
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/time-1.12.2/lib/Data/Time/Format/Locale.hs:
+  hash: 768a8f803885687d08022c8d8fee2a92e37a31f43dc7932974c39d52eec8bb79
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/time-1.12.2/lib/Data/Time/Format/Parse.hs:
+  hash: e11c7ee7cead26548380f1633c73d49e691d5a8e7419ad571f700e5b85f80704
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/time-1.12.2/lib/Data/Time/Format/Parse/Class.hs:
+  hash: c7ccaa019775a90298191f4bea3be5b6e00c0a9214b45db30c9ef7353213f1cb
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/time-1.12.2/lib/Data/Time/Format/Parse/Instances.hs:
+  hash: dbfbb7def48854bde3187a983b41eca9b8f68ee98d0bef6967987538487f538c
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/time-1.12.2/lib/Data/Time/LocalTime.hs:
+  hash: 50fba6d920e2236feb5c6739b4bdcd0a6de0950d802c58dc1bbfaf4379c4c88c
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/time-1.12.2/lib/Data/Time/LocalTime/Internal/CalendarDiffTime.hs:
+  hash: 7734cec618b24e96b85cba7cd5096f19b313afb84201eea93c7c210ad6332a45
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/time-1.12.2/lib/Data/Time/LocalTime/Internal/LocalTime.hs:
+  hash: 7b17d5dca3978018509398073c3dc1d4f9948ec1bfd2523fb397384caf7c078e
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/time-1.12.2/lib/Data/Time/LocalTime/Internal/TimeOfDay.hs:
+  hash: f10bb6efdd571098a0ea32f3f69266d0a9fadfd8b968b69abce21348b11960e3
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/time-1.12.2/lib/Data/Time/LocalTime/Internal/TimeZone.hs:
+  hash: 5752ba84a0aa8fe34fc9de9db644a5ebf6a08473a5d216fea433cf7e4da2a253
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/time-1.12.2/lib/Data/Time/LocalTime/Internal/ZonedTime.hs:
+  hash: 48029079170ee19637cbfe62e4fa96fff4a6353583ad8cbd92caba44239bded3
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/time-1.12.2/lib/cbits/HsTime.c:
+  hash: 5c0906b317589142cb6c837606d636cff7faae9fd16ab27296f4cb752671a8d5
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/time-1.12.2/lib/include/HsTime.h:
+  hash: 1009f0ea4ea90bacb2894aadd2e2ecb571de08e28895fb5a7270e073ef0a9586
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/time-1.12.2/lib/include/HsTimeConfig.h.in:
+  hash: 5295b8dc55c404405316e4cb75195966db35c0d8682efecb9fbd72194e7ac557
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/time-1.12.2/test/unix/Test/Format/FormatStuff.c:
+  hash: 1ef2d574d6442525b724a2e561c818e7fa446a58528524977f612d50615c6884
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/time-1.12.2/test/unix/Test/Format/FormatStuff.h:
+  hash: a9e592f48f498607430f78bcd35f2af7f77f93f4f46f1e77b457ace5fe4bd0eb
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab2/time-1.12.2/time.cabal:
+  hash: 88e8493d9130038d3b9968a2530a0900141cd3d938483c83dde56e12b875ebc8
+/usr/include/stdc-predef.h:
+  hash: 64fdf694f7b3d51ec6c45c06dcb71ebbe9455742d3ea673012016668853d3bff

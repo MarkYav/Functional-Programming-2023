@@ -1,0 +1,36 @@
+? /home/mark/.stack/programs/x86_64-linux/ghc-tinfo6-libc6-pre232-9.4.7/lib/ghc-9.4.7/lib/x86_64-linux-ghc-9.4.7/rts-1.0.2/include/ghcversion.h
+: hash: ee548d48ca5c94d7c7fab127ec07be47b01afa24d6495358aa9ff6cfc8541c81
+? /home/mark/IdeaProjects/Functional-Programming-2022-main/Lab1/sqlite-simple-0.4.18.2/.stack-work/dist/x86_64-linux-tinfo6-libc6-pre232/Cabal-3.8.1.0/build/autogen/cabal_macros.h
+: hash: 87ef6a223d14c1b2d8613dfac2edd0ef037b608df6f306f963b0cfa7b538fac0
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab1/sqlite-simple-0.4.18.2/Database/SQLite/Simple.hs:
+  hash: d7715593a2b280f22ec945c777a753b9476d11901f98c4a93d055c3c02feaa2a
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab1/sqlite-simple-0.4.18.2/Database/SQLite/Simple/FromField.hs:
+  hash: 6688babd8de20255af6e2d537fdc0f9f56ba90a5ddf1c6791120dfbc6cfe1e6c
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab1/sqlite-simple-0.4.18.2/Database/SQLite/Simple/FromRow.hs:
+  hash: 57fac9620da0312242a24e3e5b2a1b0986b24d974389fd347090dfa697feae69
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab1/sqlite-simple-0.4.18.2/Database/SQLite/Simple/Function.hs:
+  hash: d8c92def71b4f89ac5805c285869f3a81f20b8773e6764e452a8db64caea9c4a
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab1/sqlite-simple-0.4.18.2/Database/SQLite/Simple/Internal.hs:
+  hash: 06816605deabe3bd5315e305aa44cff8048821b89a3db3e6c6ee873d9fac204d
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab1/sqlite-simple-0.4.18.2/Database/SQLite/Simple/Ok.hs:
+  hash: c837860b08c13264554af753549cacf2af8e105094dff9370e875649666dfbe8
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab1/sqlite-simple-0.4.18.2/Database/SQLite/Simple/QQ.hs:
+  hash: 1046ac02e335fbaa5c63f96c017555f16436d541b444bf821e129d9853c99fff
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab1/sqlite-simple-0.4.18.2/Database/SQLite/Simple/Time.hs:
+  hash: 558aec9430555db4ad052da1c4f1801b9cdebf821f0bcb5a401769d2153acc57
+? /home/mark/IdeaProjects/Functional-Programming-2022-main/Lab1/sqlite-simple-0.4.18.2/Database/SQLite/Simple/Time/Implementation.hs
+: hash: 6463c9fcae70f9965d6ab11cd77562382172b9ebc049b9ca55f8f40a9cb85df5
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab1/sqlite-simple-0.4.18.2/Database/SQLite/Simple/ToField.hs:
+  hash: e0d5823e4cb75c66858a704eaf33c6a008740011a0fb23b851c9242e2d06ed38
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab1/sqlite-simple-0.4.18.2/Database/SQLite/Simple/ToRow.hs:
+  hash: 923ba801c13743ac6c4c5ae906d7b29d16342935142f6230790f24c15aa2a300
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab1/sqlite-simple-0.4.18.2/Database/SQLite/Simple/Types.hs:
+  hash: c8eac2807a54b2f0558817ef3f8bdca578628f7d10287067b2f7681a9b6b48c3
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab1/sqlite-simple-0.4.18.2/README.markdown:
+  hash: 4556a08d8620a4ca56559cd4055273ce4b8969d38bce2d6e9c20f7548decffda
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab1/sqlite-simple-0.4.18.2/changelog:
+  hash: 0bbea8d5e17665ccdfb35b7f2a19f00f77aa46790def920d37330dcb8798a79e
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Lab1/sqlite-simple-0.4.18.2/sqlite-simple.cabal:
+  hash: dda1643e723591c880dda8eeba73e93502cfa775078a79da55b5efec4c52ff66
+/usr/include/stdc-predef.h:
+  hash: 64fdf694f7b3d51ec6c45c06dcb71ebbe9455742d3ea673012016668853d3bff

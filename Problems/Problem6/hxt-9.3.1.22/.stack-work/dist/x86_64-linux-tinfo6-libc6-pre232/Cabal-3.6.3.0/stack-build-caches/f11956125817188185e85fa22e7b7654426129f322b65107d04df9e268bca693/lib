@@ -1,0 +1,262 @@
+/home/mark/.stack/programs/x86_64-linux/ghc-tinfo6-libc6-pre232-9.2.8/lib/ghc-9.2.8/include/ghcversion.h:
+  hash: 10980ec0f1a6f6f31856fe1e1a51a5359d97b178636eae9fb2348f20c650207a
+? /home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/.stack-work/dist/x86_64-linux-tinfo6-libc6-pre232/Cabal-3.6.3.0/build/autogen/cabal_macros.h
+: hash: 8fa02cb4c3b3a1f1c9e49b9f24d715d337244f7a1124c570494b041ab857080f
+? /home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/examples/arrows/AGentleIntroductionToHXT/.ghci
+: hash: e84836d2ee3d87c6cfb341d21f33744dd1e728fefb6deab75ae729c62d82f0d7
+? /home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/examples/arrows/AGentleIntroductionToHXT/Makefile
+: hash: 6b2068ba2f9e5fd3561882d1d087260d066507332e0992c0369916d0b0dfa7d5
+? /home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/examples/arrows/AGentleIntroductionToHXT/PicklerExample/Baseball.hs
+: hash: 41342920eede787b27f2766ca29db2d8ae935e6ca9ac72b8bc4c6fdcd72872ff
+? /home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/examples/arrows/AGentleIntroductionToHXT/PicklerExample/Makefile
+: hash: b9bb18820c35376bd4365f9edb4b1a23462ef1a6d887fb3adbe89da1cb5e6448
+? /home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/examples/arrows/AGentleIntroductionToHXT/PicklerExample/new-simple2.xml
+: hash: 577803ce03729b4d40f79e382b6d8720c9c0031c412d3732c1acc9bb92d18a3c
+? /home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/examples/arrows/AGentleIntroductionToHXT/PicklerExample/simple2.xml
+: hash: ba4a5fdfca4bb7c88ee382ace756fbf4127dbc4643b9e5c986f102371e312b9b
+? /home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/examples/arrows/AGentleIntroductionToHXT/SimpleExamples.hs
+: hash: 9ba1514c1002489b47c67eca2602fd4069e47c41f273abb10d086fae69b8a16d
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/examples/arrows/HelloWorld/HelloWorld.hs:
+  hash: ab8d3b50ac18d2553ec0d75e5d9a848c39c783244eec897e1c4afdbfc11306ea
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/examples/arrows/HelloWorld/Makefile:
+  hash: 7ef4116e35700d9f585e70f0f9f38927b244463633f379144b0b76f0c50334a3
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/examples/arrows/HelloWorld/Mini.hs:
+  hash: d055f273a59b618dd9f26c23fb86a58438fd76f3b43d1bea6c62600fe2d7221b
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/examples/arrows/HelloWorld/bye.xml:
+  hash: da59b6394c51f8a1b903ff987dec2e386239abceaf97d0775ef582d316648956
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/examples/arrows/HelloWorld/hello.xml:
+  hash: 4e0e380d41e9e5e8cd97e7c54b861d15e23b0cadf4ddc81e865d34d771a8cb75
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/examples/arrows/absurls/AbsURIs.hs:
+  hash: f1038733962ebb143154b532275d501c04e1b7921d764bc1e5e8bca29554e56e
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/examples/arrows/absurls/Makefile:
+  hash: 763ed6ea40ef703ab0b7a8066e2cec1c584dab8f883fa1781f68a0c1c20361e9
+? /home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/examples/arrows/absurls/ProcessDocument.hs
+: hash: 85ac3e37591ca849209ec1e208ee2c1acacef668b09d02af7aa7571fbbd7fb9e
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/examples/arrows/absurls/lousy.html:
+  hash: bd92a70c4b1d97f8d747f35c79fbb4698c8e13aed2adf48a857e177dbc0c7cfc
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/examples/arrows/dtd2hxt/.ghci:
+  hash: 57f75ced3d5ecba4b374b243c71009ae7d398d074ae9e1b04943e0331b0eb72c
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/examples/arrows/dtd2hxt/DTDtoHXT.hs:
+  hash: f003f5220ebd5b4af74692c85b555761bbfe0ce3c04e8b23d4d0f947515c0e86
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/examples/arrows/dtd2hxt/Makefile:
+  hash: 2d7218dacf8ef588e7b9bf2cc916dfe29b9198e43c58fc8951452e89919ef9ad
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/examples/arrows/hparser/HXmlParser.hs:
+  hash: 37f829899b6672520956262b31395c18cf6a93fd3cd7eca63e460b1adc6f7ae6
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/examples/arrows/hparser/Makefile:
+  hash: 4d2d66dbe9a4fb489a10db9b86ade2dfc5a033743656cf0184b95c7a25566bf8
+? /home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/examples/arrows/hparser/emptyElements.html
+: hash: c591a2d74b072454ce2d05ab52bb9aa5c85a5ed790537ab69441435d8f09c0c2
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/examples/arrows/hparser/example1.xml:
+  hash: 977aeb594a94f91bcdca78c23130bb91b885fc0292703a284f12588c1a15d068
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/examples/arrows/hparser/example1CRLF.xml:
+  hash: 977aeb594a94f91bcdca78c23130bb91b885fc0292703a284f12588c1a15d068
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/examples/arrows/hparser/invalid.xml:
+  hash: 133cb4db0a43b17b25faeae7700df24075cb5e48c09e52955b058fa9fc427d3e
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/examples/arrows/hparser/invalid1.xml:
+  hash: 5a633f6f5af2f07295f99c31966c44bdcd603345625d4ec1d8845d4d95bc65b7
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/examples/arrows/hparser/invalid2.rng:
+  hash: 2496ba8b87d6b439b502308e6cb8d87d291dce89b5a21cf743f42d6b2b813b74
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/examples/arrows/hparser/invalid3.rng:
+  hash: 71283a11781953e8f2a30b1a4d6a9cd56c992132bd4aeb42880fc8cd2a7e2177
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/examples/arrows/hparser/lousy.html:
+  hash: c39f01a3940808776f28e052026621a6309f6ae8a17e0369972230947b8e4f64
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/examples/arrows/hparser/namespace0.xml:
+  hash: 5fe07fb50abf883fd3636f666653172478aabfc5ae477015b8a427861bc583e7
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/examples/arrows/hparser/namespace1.xml:
+  hash: c8b9c786908048c22a5c727a25ab62c4c92fc4be8d095ef677ed0950e176aade
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/examples/arrows/hparser/valid1.rng:
+  hash: 3b28fd5af8eb9718e131d1543561a63e891733eb04922199ebcf26114d354f52
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/examples/arrows/hparser/valid1.xml:
+  hash: 03751785bf65de2c43077fc658ac32f5428e2ad2142fc9b176c7372a51d5c307
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/examples/arrows/performance/GenDoc.hs:
+  hash: 67aa9a265545c9ab68d4af3b5894ff27a237fbcd68e9a7cae589cae6a411874a
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/examples/arrows/performance/Makefile:
+  hash: fc9f173a41d84154109a62b15a3ceedfef80f727f731ee498f1db86730fb727d
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/examples/arrows/pickle/Makefile:
+  hash: 545ac4e5d85f6b66131438d95d20014cc1f25064ac9855091ce6b7a915ad6f7b
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/examples/arrows/pickle/PickleTest.hs:
+  hash: 79d15195d571e0c3774177e7cd46a14156498931e02edf8bd5f3f03d326f7b9b
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/examples/xhtml/tmp.xml:
+  hash: 6d4cb6ed29e4dd2d7af5332a49a2d7304fbb9951e6ea65b8ec24572a6bd495da
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/examples/xhtml/xhtml-lat1.ent:
+  hash: 6e21763b19fc373bb2600b33213a8c56160bb2d30a30d7ab69858c9a8cc6d735
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/examples/xhtml/xhtml-special.ent:
+  hash: ca1839d23bcca97fbac0f8950df0968ca286630527cf35840ac6c064da044d29
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/examples/xhtml/xhtml-symbol.ent:
+  hash: d457b4dceadeb8e920ab868b458446d1c31a940e4c06239c4a4db914671f103f
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/examples/xhtml/xhtml.xml:
+  hash: 41509f83821f80802dcbeeeb2e4c15849eec7f4618623ec2732b55d1c648388f
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/examples/xhtml/xhtml1-frameset.dtd:
+  hash: 6ca7b32292699440bb3e052e9dc4cdfc5f664700128b2b07c55e533b7ea447af
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/examples/xhtml/xhtml1-strict.dtd:
+  hash: bc8da4db7b8639cfeecabe182e1d39b89a9c72992f2aff0eb013c2bd74dc1782
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/examples/xhtml/xhtml1-transitional.dtd:
+  hash: e03724cd36d6e09d16811195aeb7fce76738c7c9431eeb40ab3684e7f8baa6ce
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/hxt.cabal:
+  hash: 2d9b2ddda1bf8b1697a9443560a81991663cd8b73ebea4a8106ad025c1151704
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Control/Arrow/ArrowExc.hs:
+  hash: 8f3a3ce45ebb7a0d28a2b80f08c495fdfe80e0b9e16f86dc5d3fe946f62bec1f
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Control/Arrow/ArrowIO.hs:
+  hash: 806578ee87a31de125abea45dec23e0e8016c522611bb60eaeb03067f580f4b4
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Control/Arrow/ArrowIf.hs:
+  hash: 4dc68f6afdaeb35617f63ef187555c1bd88e86143cc83a00469e8aea43c8978f
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Control/Arrow/ArrowList.hs:
+  hash: a939048bba900d61fcb62421e2b702d0e9874f663b0abefb69af5b1afff95c11
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Control/Arrow/ArrowNF.hs:
+  hash: b7fe4589f1a4fc6dec6dd55d70232d8e879a9c00c1567eece3f0d278dde41f2d
+? /home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Control/Arrow/ArrowNavigatableTree.hs
+: hash: 5d17ef75d2b0ae99e5a7ada078adc143a9eb7b867d59e9ee5f77657069411734
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Control/Arrow/ArrowState.hs:
+  hash: c31b618525a92374ea461f67261e48ac66b1746a9b785daac3e8e508ce982e60
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Control/Arrow/ArrowTree.hs:
+  hash: 996c64b73fe4618f85dc8055f705de31ad39729ccd5cf853f2d470bc9ab4f7bd
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Control/Arrow/IOListArrow.hs:
+  hash: 2eecb5d229f64bb1c63b60fd9fd96b9755b7883994673f51e4282ba5605d9fc9
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Control/Arrow/IOStateListArrow.hs:
+  hash: 53630ccaed3ab811203bd5f0fd9ba9dd5888ffddda49309d2c1f9a32f493cff1
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Control/Arrow/ListArrow.hs:
+  hash: 6d2eea33c01317b9b2226b183b1b98fa0cf6c1a7aa2ed40a99117c247afb5725
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Control/Arrow/ListArrows.hs:
+  hash: dc3db8848e767335074d4675e921bc55b392667a7c2938dbc96cfda594320c59
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Control/Arrow/NTreeEdit.hs:
+  hash: b645bb5e5c1f2d23d472a915a96832fe5c43ac1d3f5bced775dd129338988a91
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Control/Arrow/StateListArrow.hs:
+  hash: 93ab0cabe4862c4b4ae4110c83e81f23af4fcfff0070e01d17bc5af6fcbfae8e
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Control/FlatSeq.hs:
+  hash: 995ff32cac66612c0ed9803d31252a2aa84986ccd4a52fb8d5f8b415efddfa1d
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Data/AssocList.hs:
+  hash: 3dbcbf53b87b7797728c528281dd15f3f51ab4c4bdd986705261798a50b0777f
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Data/Atom.hs:
+  hash: 7513d3d42282424fceb64840664d9641e9905d56a76da941dfbb28a7f7d3ef60
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Data/Function/Selector.hs:
+  hash: 7a4c9a5540d3dc8adec49dac589c205f90d1469b4423b1a7cd5728ee89e1a8ce
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Data/Tree/Class.hs:
+  hash: be7f5bff6d622376e5e017e7afde87995b2dfbfc78e7c78d59dd40a967d94a08
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Data/Tree/NTree/Edit.hs:
+  hash: 6da4de79af83ff0d4c037b480e0f1521b5a5441651b14aacabc1e4d7ced4a0ff
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Data/Tree/NTree/TypeDefs.hs:
+  hash: d77a1f352ab0ec9f729c4edbac600cfd8fafaf8d0e8e077af6c00e8e7d13fa96
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Data/Tree/NTree/Zipper/TypeDefs.hs:
+  hash: 54d3abab05be9f45cc0645cfe2f54a7eec8d27c04adc3f66a6d25fa2645874a8
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Data/Tree/NavigatableTree/Class.hs:
+  hash: 32e88d3044ae6492e5dd86bda1000c6331058548996a3a4a7d6df4d6d9ac9e94
+? /home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Data/Tree/NavigatableTree/XPathAxis.hs
+: hash: d92239891a92a05f088ec5e39e680def5e3446cef81d993b625cdbcc69308d2c
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Text/XML/HXT/Arrow/Binary.hs:
+  hash: 32ed0f9c23cc12f39e8d24588ffb3cc3677f74730509d7c351847f56dbf1c749
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Text/XML/HXT/Arrow/DTDProcessing.hs:
+  hash: 2ab2a4f9bb5c8868ff56cefcc332fc81d0353561143e6c83efaef9a6cf3b006e
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Text/XML/HXT/Arrow/DocumentInput.hs:
+  hash: ac2ba57e3ee786ea8ed9629f98abde810fbe9bf6a562510cd031931e73cd3bd8
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Text/XML/HXT/Arrow/DocumentOutput.hs:
+  hash: 055212a48bdaf9a858d5b6eb37e12a633df4a7306588d5e7c8bfc0c5f258edc6
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Text/XML/HXT/Arrow/Edit.hs:
+  hash: 8eede2e4964509a1028ae68aad315c4fd2ae8661643fced0d582a3857b960af8
+? /home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Text/XML/HXT/Arrow/GeneralEntitySubstitution.hs
+: hash: 1fb15de99b15e8c62be1d1aa2cb4e29ce1074d396b73379c3aa926703b0a25c6
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Text/XML/HXT/Arrow/Namespace.hs:
+  hash: 388b68d1ddf7a52264c6e881a3c61966887c318d916c14c33cd7f5a8b0346b33
+? /home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Text/XML/HXT/Arrow/ParserInterface.hs
+: hash: 2cc03dd95bf9a2b0850fceda06bf399408931a6367e804b7ada473e4fa14f587
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Text/XML/HXT/Arrow/Pickle.hs:
+  hash: 7acea5948447da7072a40de5afe3aab5ce51f8b7960c988491333bc3be2c35c0
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Text/XML/HXT/Arrow/Pickle/DTD.hs:
+  hash: 53d779f5f5959d710d547adf38571ff0ecb948fd43cc509e025c8e14853a32ce
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Text/XML/HXT/Arrow/Pickle/Schema.hs:
+  hash: 781928c304742ad0a1b5f9d02a611568d4c6ab7a361530957373ad90c1363edd
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Text/XML/HXT/Arrow/Pickle/Xml.hs:
+  hash: c560724b4d69df3beacbb394df9ad5eaa5f22fb75f89332950731af3f299d70c
+? /home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Text/XML/HXT/Arrow/ProcessDocument.hs
+: hash: 6d2ed510fe555b390f4ae0eea6919b53509acf310c7520fdde0b787304db163a
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Text/XML/HXT/Arrow/ReadDocument.hs:
+  hash: 8aee3f2e98a4fd937932106163789b0805b0b2bf2caf1e1b74f5d3ddba49bccd
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Text/XML/HXT/Arrow/WriteDocument.hs:
+  hash: d6d3460987f34f6b574e5e8e70cdb1e0c5355e49e50529dbca8027357a9ae86e
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Text/XML/HXT/Arrow/XmlArrow.hs:
+  hash: 19396014f3328b0fa783f809a090c5b5b7e646c6ef053e27b57ceef46b18d309
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Text/XML/HXT/Arrow/XmlOptions.hs:
+  hash: 39d8fcf87b52e4170ea1721fe140141a657395e374d28013487899b9af414bf8
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Text/XML/HXT/Arrow/XmlRegex.hs:
+  hash: b7f7ac3252befe83cf1cea048731a593b0fb593e7589298058c68e412d80b127
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Text/XML/HXT/Arrow/XmlState.hs:
+  hash: c5aa17858bc81b8e118db6b31687b7e012649da682d7aa7f1bc6b24f007741e5
+? /home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Text/XML/HXT/Arrow/XmlState/ErrorHandling.hs
+: hash: 3c7ba52e7249e723b151edf1c5296d093cb066556f0d4a9f63d1c050412b11dc
+? /home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Text/XML/HXT/Arrow/XmlState/MimeTypeTable.hs
+: hash: e95b302f999d9149aef1ea5e5e0ce4e71d17eae16f055d5f2d066b9dd01f78ce
+? /home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Text/XML/HXT/Arrow/XmlState/RunIOStateArrow.hs
+: hash: 5d8544ab16d48513bf0eb3717cc2ed5f3a811598be1187a7ad464a4c119d8758
+? /home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Text/XML/HXT/Arrow/XmlState/SystemConfig.hs
+: hash: b3e90ae09bd4c1de454444438baf9f13bc0e6596ef42fe97aef73f1025fd016c
+? /home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Text/XML/HXT/Arrow/XmlState/TraceHandling.hs
+: hash: 33f0da0cbfe7409c1a75538d88574d3d6860393530f88333ac57d7dda168bcb2
+? /home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Text/XML/HXT/Arrow/XmlState/TypeDefs.hs
+: hash: 632c4ac0f5ef37d8f546e17936a975ea6d632676962d195a6ba2fbe9eb7fc7a4
+? /home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Text/XML/HXT/Arrow/XmlState/URIHandling.hs
+: hash: f360ba780ebae0d5f4b1bd6ea95667705f66a629a5fa0fd08c9fc6cb10a9acb7
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Text/XML/HXT/Core.hs:
+  hash: 38d8f53b49dcb3fae4a62945796cdd1c0eade95a2723b949ddbec4a4387277eb
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Text/XML/HXT/DOM/FormatXmlTree.hs:
+  hash: 289d3578b4c481e8aeacbf6828a5b31be276f3449f1a22fdac1637ff5e9c6689
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Text/XML/HXT/DOM/Interface.hs:
+  hash: 9e270a5140fa887bd00520c41811446eba0c05b81b8112abdea52842f1de2626
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Text/XML/HXT/DOM/MimeTypeDefaults.hs:
+  hash: d58b4a8b380237c5d10a729d73e23f5c997dfd59d11f4d9d3e266b79e6a64f13
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Text/XML/HXT/DOM/MimeTypes.hs:
+  hash: 6e99c906ab1d10eda9ce7f57262630eef12fef2e61123a59221a3acc5c393fb4
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Text/XML/HXT/DOM/QualifiedName.hs:
+  hash: ff266cec0fc5746d08e00716f65bf418c3bca75a0c618ebcdb2dc071d219f676
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Text/XML/HXT/DOM/ShowXml.hs:
+  hash: 8312b95371b24ec2d01744130c898ebfe5af905898cd2f9dda910842850a38a2
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Text/XML/HXT/DOM/TypeDefs.hs:
+  hash: 53058d8d295a5c5815fce68c3edd47593324e5f6b41783140688bec8c0eec2a7
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Text/XML/HXT/DOM/Util.hs:
+  hash: 31fd54fbbe22eba316c3b25a5faa3f1cf91b1ac29d08133be12a4139e3ed17cc
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Text/XML/HXT/DOM/XmlKeywords.hs:
+  hash: ced72c3f1341f90c6ede08d98e189075d517898f812c590a9e1823f2735e2eca
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Text/XML/HXT/DOM/XmlNode.hs:
+  hash: ce68c1f8acbf8885c2f2190d39eef38e0a1a40bbf84a00a6fa1ea8d44b903f38
+? /home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Text/XML/HXT/DTDValidation/AttributeValueValidation.hs
+: hash: e55672fa1538396aaee152694be3fb7c80316d880c8a4bb4795a2206b41f4859
+? /home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Text/XML/HXT/DTDValidation/DTDValidation.hs
+: hash: 9ce9caa0d6bb31692a44eef514c35f175d60c2a9eebbb26b05fcb3995b7d4431
+? /home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Text/XML/HXT/DTDValidation/DocTransformation.hs
+: hash: 7371feef72420917a7bb892250ff118c6888d06dc8df75d7ccf78d3f2436c86d
+? /home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Text/XML/HXT/DTDValidation/DocValidation.hs
+: hash: 3162c5ec12ccd9adcabd2f7eecb796e6d0c34e13af1b2541fe27e774747a1ee3
+? /home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Text/XML/HXT/DTDValidation/IdValidation.hs
+: hash: c68d948e83314ac5d3dc97046e1e0649c6dc92604eee30273c863382c89f1cdc
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Text/XML/HXT/DTDValidation/RE.hs:
+  hash: cd3a4da88ab720df13be6bada2ebe8124b7bf27080d12eb61062690218dd0a7e
+? /home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Text/XML/HXT/DTDValidation/TypeDefs.hs
+: hash: b2ace4564d88c2cd654afe63d52b7227bd66c979ade5f2dba6942c1a13f5dfb5
+? /home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Text/XML/HXT/DTDValidation/Validation.hs
+: hash: 19c9300e1d695c00c5865ae0ec23d0ed00719725f97de0ac7f04b20c9a84abf8
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Text/XML/HXT/DTDValidation/XmlRE.hs:
+  hash: 27f3ab8b34462670b206d618c0620f7895f38ee07299010f807312ebd14e524e
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Text/XML/HXT/IO/GetFILE.hs:
+  hash: 7b59a3a6fbd43dece9456f43a58030877bda3c92834f0853c81f970f2fffde73
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Text/XML/HXT/Parser/HtmlParsec.hs:
+  hash: 4c39acf0d3034e8912f8a50c851a4ed1d282d060fd16eb616481cf226aadba1f
+? /home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Text/XML/HXT/Parser/ProtocolHandlerUtil.hs
+: hash: f2268a27112458dd76894fb572e0354b34a903f0cae95b1791976faba686a1b0
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Text/XML/HXT/Parser/XhtmlEntities.hs:
+  hash: 5c42db26a133759106624a32d9fac3ed5ab79762a5241951433e403be98e519c
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Text/XML/HXT/Parser/XmlCharParser.hs:
+  hash: 7ef74c931b3e834de9e78e2c9d5f932dc15d00b9c05e61b5b015073907547c48
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Text/XML/HXT/Parser/XmlDTDParser.hs:
+  hash: fa44ec08400a9844a22c7be650ac7a6212ebbe5f9a24e8cd1d133590ba736085
+? /home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Text/XML/HXT/Parser/XmlDTDTokenParser.hs
+: hash: f484b259fc63424917898607c35e06fe2183166646d36e8f69e5885d92003fbd
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Text/XML/HXT/Parser/XmlEntities.hs:
+  hash: 8fd69736dbb110b289672837ee666d68ea78db3db81fd6fc3339568c759937a2
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Text/XML/HXT/Parser/XmlParsec.hs:
+  hash: 96ce1addf3a6cff40347c0457d2309da2593320c8dc80f9ad9e8f402062d7193
+? /home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Text/XML/HXT/Parser/XmlTokenParser.hs
+: hash: 702b420f7f5d752a4d3799838c34e93fdb55b356caa534cde20a07fa4b016ed5
+/home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Text/XML/HXT/Version.hs:
+  hash: c9918d9a245eb7d9363af09455eca0d9b2f46030d93b926d299bf3e3b285ac9c
+? /home/mark/IdeaProjects/Functional-Programming-2022-main/Problems/Problem8/hxt-9.3.1.22/src/Text/XML/HXT/XMLSchema/DataTypeLibW3CNames.hs
+: hash: cf744ca6d80904fcb79d37232d435518e682629c628e4452c71ba5a1e3d60906
+/usr/include/stdc-predef.h:
+  hash: 64fdf694f7b3d51ec6c45c06dcb71ebbe9455742d3ea673012016668853d3bff
